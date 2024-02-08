@@ -179,7 +179,6 @@ namespace TestPassesgerTicket
 
 			connection.Close();
 			seferListesi();
-
 		}
 	}
 }
